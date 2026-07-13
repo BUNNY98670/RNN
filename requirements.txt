@@ -2,4 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow==2.19.0
+joblib
+tensorflow-cpu==2.15.0
